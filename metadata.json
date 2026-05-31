@@ -1,0 +1,7 @@
+{
+  "name": "AlumniConnect",
+  "description": "A comprehensive alumni networking and career opportunity platform connecting students, graduates, and educational institutions for mentorship, jobs, and events.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
